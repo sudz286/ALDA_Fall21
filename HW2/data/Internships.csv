@@ -1,0 +1,13 @@
+﻿Department,Academic Year,Time interview held,Semester,Interview Offered
+Business,Junior ,Afternoon,Spring,Yes
+Business,Junior ,Morning,Fall,Yes
+CS - Engineering,Junior ,Morning,Fall,Yes
+CS - Engineering,Junior ,Morning,Spring,No
+CS - Engineering,Junior ,Morning,Spring,Yes
+CS - Engineering,Junior ,Morning,Spring,Yes
+CS - Engineering,Senior ,Late Afternoon,Fall,No
+CS - Engineering,Sophomore ,Late Afternoon,Spring,No
+Electrical Engineering,Junior ,Late Afternoon,Fall,No
+Electrical Engineering,Senior ,Late Afternoon,Fall,Yes
+Electrical Engineering,Sophomore ,Morning,Spring,Yes
+Electrical Engineering,Sophomore ,Morning,Spring,Yes

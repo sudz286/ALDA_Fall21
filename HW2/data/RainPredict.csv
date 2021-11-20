@@ -1,0 +1,15 @@
+﻿Weather,Time of Day,Bus Delay,Get caught in rain?
+No Rain,Morning,Not Late,No
+No Rain,Afternoon,Not Late,No
+No Rain,Afternoon,Late,No
+Rain,Morning,Not Late,Yes
+Rain,Morning,Late,Yes
+Rain,Afternoon,Late,Yes
+Rain,Afternoon,Late,Yes
+Rain,Afternoon,Not Late,Yes
+Rain,Morning,Late,No
+Rain,Afternoon,Not Late,No
+Rain,Afternoon,Not Late,No
+Storm,Afternoon,Late,No
+Storm,Afternoon,Not Late,Yes
+Storm,Morning,Not Late,No
