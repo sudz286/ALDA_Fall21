@@ -1,5 +1,9 @@
-# ALDA-fall2021-H12
-Homework and project repository for Automated Learning and Data Analysis taken in the fall semseter for homework group H12.
+# ALDA Assignment
+Homework and project repository for Automated Learning and Data Analysis taken in Fall 22'.
+<br />
+Each `HW` folder consists of the question and solution in pdf format alongwith their respective Python script.
+
+
 
 
 
